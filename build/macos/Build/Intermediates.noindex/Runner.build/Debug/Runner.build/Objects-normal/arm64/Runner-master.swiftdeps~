@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0109487fa6aea6a3802ec009bee1bf311b603abb571dd3d2ebd66681ad7a50f2"
+build_start_time: [1725021167, 707371950]
+build_end_time: [1725021167, 740457057]
+inputs:
+  "/Users/kantemirtemirkanov/Desktop/AppProjects/cryptoapp/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1725021139, 798649787]
+  "/Users/kantemirtemirkanov/Desktop/AppProjects/cryptoapp/macos/Runner/AppDelegate.swift": !private [1724256334, 0]
+  "/Users/kantemirtemirkanov/Desktop/AppProjects/cryptoapp/macos/Runner/MainFlutterWindow.swift": !private [1724256334, 0]
